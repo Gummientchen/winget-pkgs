@@ -1,0 +1,24 @@
+PackageIdentifier: Libretro.RetroArch
+PackageVersion: 1.9.7
+PackageName: RetroArch
+Publisher: The Libretro Team
+License: GPLv3
+Tags:
+- libretro
+- retro
+- rom
+- emulator
+- emulation
+- arcade
+- game
+- gaming
+ShortDescription: RetroArch is a frontend for emulators, game engines and media players.
+PackageUrl: https://www.retroarch.com
+Installers:
+- Architecture: x64
+  InstallerUrl: https://buildbot.libretro.com/stable/1.9.7/windows/x86_64/RetroArch-Win64-setup.exe
+  InstallerSha256: 9a3c90f26e02b9ae26bce32df5bff498838dce5d4e3e5c757c6643dedc89c2ce
+  InstallerType: nullsoft
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.0.0
